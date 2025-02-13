@@ -1,4 +1,4 @@
-# BTP Project: Plant Species Classification and Disease Detection Using Hybrid Model
+# Plant Species Classification and Disease Detection Using Hybrid Model
 
 ## Introduction
 Agriculture plays a vital role in feeding the world’s population and contributes significantly to a nation’s economy. However, plant diseases pose a major challenge, severely impacting crop yields. Early detection and identification of plant diseases are critical to ensuring food security and maintaining ecosystem balance. 
